@@ -1,4 +1,4 @@
-# OBIS 3D
+# 🌍 OBIS 3D
 
 ![Language](https://img.shields.io/badge/Language-Java-ff9214)
 ![Library](https://img.shields.io/badge/Library-JavaFX-20d645)
@@ -7,7 +7,9 @@
 
 <br/>
 
-⚠️ This project was made for school with a deadline and I chose to leave it as it was at the time of submission ⚠️
+*⚠️ This project was made for school with a deadline and I chose to leave it as it was at the time of submission ⚠️*
+
+<br/>
 
 A 3D application showing data from the Ocean Biodiversity Information System (OBIS).
 
@@ -19,13 +21,17 @@ A 3D application showing data from the Ocean Biodiversity Information System (OB
 
 <br/>
 
-# Dependencies
+# 📋 Summary
 
-* JavaFX
+* **[📋 Summary](#-summary)**
+* **[✨ Features](#-features)**
+* **[📦 Dependencies](#-dependencies)**
+* **[📝 Notes](#-notes)**
+* **[🙏 Credits](#-credits)**
 
 <br/>
 
-# Features
+# ✨ Features
 
 * The program can read a .json file or download the data from the Internet
 
@@ -62,13 +68,19 @@ A 3D application showing data from the Ocean Biodiversity Information System (OB
 
 <br/>
 
-# Notes
+# 📦 Dependencies
+
+* **[JavaFX](https://openjfx.io/)**
+
+<br/>
+
+# 📝 Notes
 
 This program is a school project for Polytech Paris-Saclay as part of Java, Human-machine interaction and computer graphics courses.
 
 <br/>
 
-# Credits
+# 🙏 Credits
 
 * [**Angel Uriot**](https://github.com/angeluriot) : Co-creator of the project.
 * [**Arthur Azambre**](https://github.com/arthurazambre) : Co-creator of the project.
